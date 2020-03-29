@@ -1,0 +1,27 @@
+table {
+    border: 1px solid black;
+
+}
+td {
+    align-content: center;
+}
+.day {
+    background-color: yellow;
+}
+.time {
+    background-color: orange;
+}
+h1 {
+    color: purple;
+    font-family: "Imprint MT Shadow";
+    margin-left: 100px;
+}
+.aligl {
+    justify-items: baseline;
+}
+.ar {
+    margin-left: 30px;
+}
+.le {
+    margin-left: 180px;
+}
